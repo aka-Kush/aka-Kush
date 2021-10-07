@@ -1,11 +1,11 @@
-<h1 align="center">Hola! , I'm Shivansh Kush</h1>
+<h1 align="center"> 👋 Hola! , I'm Shivansh Kush</h1>
 <h3 align="center">CSE Student who is passionate about becoming a Full Stack Web Developer</h3>
 
-- I’m currently learning **MERN Stack**
+- 🧠 I’m currently learning **MERN Stack**
 
-- Some of my Arduino projects are available at [https://aka-kush.github.io/](https://aka-kush.github.io/)
+- ➡️ Some of my Arduino projects are available at [https://aka-kush.github.io/](https://aka-kush.github.io/)
 
-- Ask me about **anything related to full stack web dev**
+- ❓ Ask me about **anything related to full stack web dev**
 
 - 📫 How to reach me **kushivansh27@gmail.com**
 
