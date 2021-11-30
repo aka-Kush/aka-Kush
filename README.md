@@ -1,4 +1,9 @@
-<h1 align="center"> 👋 Hola! , I'm Shivansh Kush</h1>
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/aka-Kush/aka-Kush/blob/main/wave.gif" width="40px" />
+  </a>
+  Hola! , I'm Shivansh Kush
+</h1>
 <h3 align="center">CSE Student who is passionate about becoming a Full Stack Web Developer</h3>
 
 - 🧠 I’m currently learning **MERN Stack**
